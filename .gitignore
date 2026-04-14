@@ -1,0 +1,26 @@
+# Xcode
+.DS_Store
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcarchive/
+*.ipa
+*.dSYM
+*.app
+*.o
+*.swiftmodule
+*.swiftdoc
+DerivedData/
+build/
+
+# Dependencies
+Pods/
+Carthage/Build/
+
+# Local configuration
+.claude/
+
+# Temporary files, backups (like the timestamped build folder)
+SentenceAnalyzer 2026-04-12 23-27-42/
+
+# User defaults plist (if you accidentally added it)
+# com.yourname.sentenceanalyzer.plist
